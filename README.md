@@ -43,4 +43,4 @@ SHAP (SHapley Additive exPlanations) was used to explain the predictions of the 
 
 This machine learning project showcases the potential of using laboratory test results and BMI to predict diabetes accurately. Early detection and risk assessment can lead to more effective diabetes management and improved patient outcomes.
 
-For more details, explore the code and analysis in the project files.
+For more details, explore the code and analysis in the project files

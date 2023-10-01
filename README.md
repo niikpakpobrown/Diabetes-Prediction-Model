@@ -31,13 +31,10 @@ Data preprocessing involved scaling the features to ensure uniformity in scale, 
 
 ## Model Training and Evaluation
 
-Several machine learning models were trained and evaluated using cross-validation techniques. The models considered include Logistic Regression, K-Nearest Neighbors, Naive Bayes, Support Vector Classifier, Random Forest Classifier, Decision Tree Regressor, and XGBoost Classifier.
+Several machine learning models were trained and evaluated using cross-validation techniques. The models considered include Logistic Regression, K-Nearest Neighbors, Support Vector Classifier, Random Forest Classifier, and GradientBoosting Classifier.
 
-The XGBoost Classifier demonstrated high accuracy and strong performance in predicting diabetes classes.
+The GBoost Classifier demonstrated high accuracy and strong performance in predicting diabetes classes.
 
-## Model Explanation with SHAP
-
-SHAP (SHapley Additive exPlanations) was used to explain the predictions of the XGBoost Classifier model. SHAP values highlighted the top contributors to the model's predictions, with features 4 (HbA1c) and 10 (BMI) being significant factors in predicting diabetes classes.
 
 ## Conclusion
 
